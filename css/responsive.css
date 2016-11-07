@@ -9,24 +9,30 @@
 
       @media screen and (min-width: 450px) {
         .dark_blue {
+          margin-bottom: 10px;
           width: 100%;
           order: 0;
           color: blue;
         }
 
         .light_blue {
+          margin-top: 10px;
+          margin-bottom: 10px;
           width: 50%;
           order: 1;
           color: grey;
         }
 
         .green {
+          margin-top: 10px;
+          margin-bottom: 10px;
           width:50%;
           order: 2;
           color: lime;
         }
 
         .lime {
+          margin-top: 10px;
           width: 100%;
           order: 7;
           color: green;
@@ -39,12 +45,16 @@
         }
 
         .red {
+          margin-top: 10px;
+          margin-bottom: 10px;
           width: 100%;
           order: 5;
           color: orange;
         }
 
         .orange {
+          margin-top: 10px;
+          margin-bottom: 10px;
           width: 100%;
           order: 6;
           color: red;
@@ -53,24 +63,30 @@
 
       @media screen and (min-width: 550px) {
         .dark_blue {
+          margin-bottom: 10px;
           width: 100%;
           order: 0;
           color: blue;
         }
 
         .light_blue {
+          margin-top: 10px;
+          margin-bottom: 10px;
           width: 50%;
           order: 1;
           color: grey;
         }
 
         .green {
+          margin-top: 10px;
+          margin-bottom: 10px;
           width:50%;
           order: 2;
           color: lime;
         }
 
         .lime {
+          margin-top: 10px;
           width: 100%;
           order: 7;
           color: green;
@@ -83,13 +99,17 @@
         }
 
         .red {
-          width: 66.66%;
+          margin-top: 10px;
+          margin-bottom: 10px;
+          width: 60%;
           order: 6;
           color: orange;
         }
 
         .orange {
-          width: 33.33%;
+          margin-top: 10px;
+          margin-bottom: 10px;
+          width: 40%;
           order: 5;
           color: red;
         }
@@ -102,12 +122,15 @@
       	  margin-right: auto;
       	}
         .dark_blue {
+          margin-bottom: 10px;
           width: 100%;
           order: 0;
           color: blue;
         }
 
         .light_blue {
+          margin-top: 10px;
+          margin-bottom: 10px;
           max-width: 800px;	
           width: 50%;
           order: 1;
@@ -115,6 +138,8 @@
         }
 
         .green {
+          margin-top: 10px;
+          margin-bottom: 10px;
           max-width: 800px;
           width:50%;
           order: 2;
@@ -122,6 +147,7 @@
         }
 
         .lime {
+          margin-top: 10px;
           width: 100%;
           order: 7;
           color: green;
@@ -134,15 +160,19 @@
         }
 
         .red {
+          margin-top: 10px;
+          margin-bottom: 10px;
           max-width: 800px;
-          width: 66.6%;
+          width: 60%;
           order: 6;
           color: orange;
         }
 
         .orange {
+          margin-top: 10px;
+          margin-bottom: 10px;
           max-width: 800px;
-          width: 33.33%;
+          width: 40%;
           order: 5;
           color: red;
         }
