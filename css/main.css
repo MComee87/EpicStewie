@@ -5,7 +5,7 @@
       }
 
       body {
-        font-family: 'Roboto', sans-serif;
+        font-family: 'Indie Flower', cursive;
       }
 
       a#menu svg {
@@ -28,41 +28,41 @@
       }
 
       .dark_blue {
-        background-color: #2A457A;
+        background-color: blue;
         color: #efefef;
       }
 
       .light_blue {
         margin-bottom: 10px;
-        background-color: #099DD9;
+        background-color: #ffffff;
       }
 
       .green {
         margin-top: 10px;
         margin-bottom: 10px;
-        background-color: #0C8542;
+        background-color: #ffffff;
       }
 
       .lime {
         margin-top: 10px;
-        background-color: rgb(179, 210, 52);
+        background-color: #ffffff;
       }
 
       .seafoam {
         color: white;
-        background-color: rgb(77, 190, 161);
+        background-color: #ffffff;
       }
 
       .red {
         margin-top: 10px;
         margin-bottom: 10px;
-        background-color: #EC1D3B;
+        background-color: #ffffff;
       }
 
       .orange {
         margin-top: 10px;
         margin-bottom: 10px;
-        background-color: #F79420;
+        background-color: #ffffff;
       }
 
       .text-underline {
