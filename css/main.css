@@ -68,12 +68,16 @@
       }
 
       .red {
+        max-height: 300px;
+        overflow: auto;
         margin-top: 10px;
         margin-bottom: 10px;
         background-color: #ffffff;
       }
 
       .orange {
+        max-height: 300px;
+        overflow: auto;
         margin-top: 10px;
         margin-bottom: 10px;
         background-color: #ffffff;
