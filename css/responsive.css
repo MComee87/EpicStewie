@@ -36,16 +36,25 @@
           background-color: blue;
           margin-top: 10px;
           width: 100%;
-          order: 7;
+          order: 9;
           color: #ffffff;
         }
 
-        .seafoam {
-          width: 100%;
-          order: 4;
+        .fb-sharing {
+          margin-top: 10px;
+          margin-bottom: 10px;
+          width: 50%;
+          order: 7;
           color: #424242;
         }
 
+        .fb-comments {
+          margin-top: 10px;
+          margin-bottom: 10px;
+          width: 50%;
+          order: 8;
+          color: #424242;
+        }
         .red {
           margin-top: 10px;
           margin-bottom: 10px;
@@ -100,15 +109,23 @@
           background-color: blue;
           margin-top: 10px;
           width: 100%;
-          order: 7;
+          order: 9;
           color: #ffffff;
         }
 
-        .seafoam {
+        .fb-sharing {
           margin-top: 10px;
           margin-bottom: 10px;
-          width: 100%;
-          order: 4;
+          width: 50%;
+          order: 7;
+          color: #424242;
+        }
+
+        .fb-comments {
+          margin-top: 10px;
+          margin-bottom: 10px;
+          width: 50%;
+          order: 8;
           color: #424242;
         }
 
