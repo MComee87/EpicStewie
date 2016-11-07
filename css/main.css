@@ -49,11 +49,14 @@
 
       .lime {
         margin-top: 10px;
-        background-color: #ffffff;
+        background-color: blue;
+        color: #ffffff;
       }
 
       .seafoam {
-        color: white;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: #424242;
         background-color: #ffffff;
       }
 
