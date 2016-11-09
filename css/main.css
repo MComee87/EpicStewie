@@ -37,7 +37,7 @@
       .title-img {
         float: right;
         position: absolute;
-        margin-right: 20%;            
+        right: 20%;            
       }
 
       .box {
