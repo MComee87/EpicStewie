@@ -33,6 +33,12 @@
         top: 40px;
       }
 
+      .title-img {
+        z-index: 1;
+        position: absolute;
+        top: 80px;
+      }
+
       .box {
         min-height: 100px;
       }
