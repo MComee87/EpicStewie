@@ -34,10 +34,8 @@
       }
 
       .title-img {
-        z-index: 1;
+        float: right;
         position: absolute;
-        top: 0px;
-        right: 0px;
       }
 
       .box {
