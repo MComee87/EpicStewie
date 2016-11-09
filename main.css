@@ -1,0 +1,98 @@
+      @import url(https://fonts.googleapis.com/css?family=Roboto);
+      html, body {
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family: 'Indie Flower', cursive;
+      }
+
+      a#menu svg {
+
+        width: 40px;
+        fill: #000;
+      }
+
+      nav, main {
+        padding: 1em;
+        box-sizing: border-box;
+      }
+      
+      h1{
+        font-size: 5em;
+      }
+
+      .title {
+        font-size: 3.5em;
+        text-align: center;
+        background-color: transparent;
+        z-index: 1;
+        position: absolute;
+        top: 20px;
+      }
+
+      .box {
+        min-height: 100px;
+      }
+
+      .dark_blue {
+        background-color: blue;
+        color: #ffffff;
+      }
+
+      .light_blue {
+        margin-bottom: 10px;
+        background-color: #ffffff;
+      }
+
+      .green {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        background-color: #ffffff;
+      }
+
+      .lime {
+        margin-top: 10px;
+        background-color: blue;
+        color: #ffffff;
+      }
+
+      .fb-sharing {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: #424242;
+        background-color: #ffffff;
+      }
+
+      .fb-comments {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: #424242;
+        background-color: #ffffff;
+      }
+
+      .red {
+        max-height: 300px;
+        overflow: auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        background-color: #ffffff;
+      }
+
+      .orange {
+        max-height: 300px;
+        overflow: auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        background-color: #ffffff;
+      }
+
+      .text-underline {
+        text-decoration: underline;
+      }
+
+      .nav-img{
+        height: auto;
+        width: 100%;
+      }
