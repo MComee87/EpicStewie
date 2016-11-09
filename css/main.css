@@ -15,6 +15,7 @@
       }
 
       nav, main {
+        overflow: hidden;
         padding: 1em;
         box-sizing: border-box;
       }
