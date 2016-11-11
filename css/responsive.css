@@ -58,11 +58,11 @@ s
         .fb-comments {
           margin-top: 10px;
           margin-bottom: 10px;
-          width: 50%;
+          width: 100%;
           order: 8;
           color: #424242;
         }
-        .videos {
+        .video_section {
           margin-top: 10px;
           margin-bottom: 10px;
           width: 100%;
@@ -138,7 +138,7 @@ s
         .fb-comments {
           margin-top: 10px;
           margin-bottom: 10px;
-          width: 50%;
+          width: 100%;
           order: 8;
           color: #424242;
         }
