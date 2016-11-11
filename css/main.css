@@ -83,7 +83,14 @@
         background-color: #ffffff;
       }
 
-      .videos {
+      .video {
+        width: 100%;
+        height: auto;
+        margin-top: 50px;
+        margin-bottom: 10px;
+      }
+
+      .video_section {
         max-height: 300px;
         overflow: auto;
         margin-top: 10px;
